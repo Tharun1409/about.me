@@ -8,7 +8,7 @@ Mobile-friendly single page resume template built with the perfect fourth ratio.
 
 ## Demo
 
-[https://vjai.github.io/about.me/](https://vjai.github.io/about.me/)
+https://tharun1409.github.io/about.me/
 
 ## Supported Browsers
 
